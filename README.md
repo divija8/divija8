@@ -1,13 +1,14 @@
 # Divija Morishetty 👨‍💻
+[![Outlook Badge](https://img.shields.io/badge/-dmorishe@syr.edu-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:dmorishe@syr.edu)](mailto:dmorishe@syr.edu)
+[![Linkedin Badge](https://img.shields.io/badge/-divija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divija-morishetty/)](https://www.linkedin.com/in/divija-morishetty/)
+[![GitHub followers](https://img.shields.io/github/followers/divija8?label=Follow&style=social)](https://github.com/divija8/?tab=follow)
+![](https://komarev.com/ghpvc/?username=divija8&color=24292E&style=flat-square&label=Profile+visitors)
+
 
 ---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-[![Outlook Badge](https://img.shields.io/badge/-dmorishe@syr.edu-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:dmorishe@syr.edu)](mailto:dmorishe@syr.edu)
-[![Linkedin Badge](https://img.shields.io/badge/-divija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divija-morishetty/)](https://www.linkedin.com/in/divija-morishetty/)
-[![GitHub followers](https://img.shields.io/github/followers/divija8?label=Follow&style=social)](https://github.com/divija8/?tab=follow)
-![](https://komarev.com/ghpvc/?username=divija8&color=24292E&style=flat-square&label=Profile+visitors)
 
 ## Hi there 👋👋,
 
