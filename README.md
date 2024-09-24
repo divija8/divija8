@@ -4,10 +4,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/divija8?label=Follow&style=social)](https://github.com/divija8/?tab=follow)
 ![](https://komarev.com/ghpvc/?username=divija8&color=24292E&style=flat-square&label=Profile+visitors)
 ---
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ## Hi there 👋👋,
 
-### I'm Divija Morishetty. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research.
+### "I’m Divija Morishetty, with a passion for problem-solving and algorithm design. I’m always eager to learn new skills and enjoy immersing myself in research and exploration."
 -------
   
 ## 🧐 About me
