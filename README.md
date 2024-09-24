@@ -6,14 +6,16 @@
 ---
 
 ## Hi there 👋👋,
-
-### I'm Divija Morishetty. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+### I'm Divija Morishetty. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into WEB DEVELOPMENT.
 -------
   
 ## 🧐 About me
 
 - 🏄‍ I’m Quick learner and expert in handling critical tasks
-- 🌱 I love to code and love to talk about space science especially Einstein theory of relativity.
+- 🌱 I love to code and learn many different coding Algorithms
 - 🔭 I’m currently learning Web development.
 - 👯 I’m looking to collaborate on Competative coding
 - 😄 And Many More...
