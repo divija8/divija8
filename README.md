@@ -13,15 +13,20 @@
 
 ### "I’m  Divija Morishetty 👨‍💻, with a passion for problem-solving and algorithm design. I’m always eager to learn new skills and enjoy immersing myself in research and exploration."
 -------
-  
-## 🧐 About me
 
-- 🏄‍ I’m Quick learner and expert in handling critical tasks
-- 🌱 I love to code and love to talk about space science especially Einstein theory of relativity.
-- 🔭 I’m currently learning Web development.
-- 👯 I’m looking to collaborate on Competative coding
-- 😄 And Many More...
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
+### :woman_technologist: About Me :
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on leetcode, GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divija-morishetty/)
 
 ### 🔨 Languages and Tools:
 ---
