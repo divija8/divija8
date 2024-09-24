@@ -53,7 +53,7 @@ Feel free to reach out! I'm always open to collaboration and new opportunities.
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MONGODB" alt="MONGODB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
 
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="24px">
@@ -63,12 +63,6 @@ Feel free to reach out! I'm always open to collaboration and new opportunities.
 - ⚡  Checkout my [resume](https://drive.google.com/file/d/17Ewnfc-_LgeQecj-aJRHH9JakFUDptt4/view?usp=sharing)
 - 💬 Ping Me about #DSA, #Algorithms, #Coding, #Space, #Chess and anything you like
 - 📫 How to reach me: message me at [LinkedIn](https://www.linkedin.com/in/divija-morishetty/)
-
-## Coding profiles
----
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/saki_007) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/saikeerthan14/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='40'>](https://www.hackerearth.com/@saikeerthan)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/saikeerthan_p121)
 
 
 
