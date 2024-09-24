@@ -20,13 +20,19 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+💻 An experienced Software Engineer & Front End Developer
+🎓Currently pursuing Masters in Computer Science at Syracuse University ( May'25)
+🔭 I’m currently working on Full-stack and ML Projects
+🤝 Looking forward to teaming up on impactful projects!
 
-- :seedling: Exploring Technical Content Writing.
+## 💬 Connect with me
 
-- :zap: In my free time, I solve problems on leetcode, GeeksforGeeks and read tech articles.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divija-morishetty/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:divijamorishetty89@gmail.com)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divija-morishetty/)
+Feel free to reach out! I'm always open to collaboration and new opportunities.
+
+
 
 ### 🔨 Languages and Tools:
 ---
