@@ -20,9 +20,12 @@
 
 ### :woman_technologist: About Me :
 
-💻 An experienced Software Engineer & Front End Developer
-🎓Currently pursuing Masters in Computer Science at Syracuse University ( May'25)
-🔭 I’m currently working on Full-stack and ML Projects
+💻 An experienced Software Engineer & Front End Developer.
+
+🎓Currently pursuing Masters in Computer Science at Syracuse University ( May'25).
+
+🔭 I’m currently working on Full-stack and ML Projects.
+
 🤝 Looking forward to teaming up on impactful projects!
 
 ## 💬 Connect with me
