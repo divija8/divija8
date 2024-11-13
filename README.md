@@ -5,10 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=divija8&color=24292E&style=flat-square&label=Profile+visitors)
 
 ---
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ## Hi there 👋👋,
 
 ### "I’m  Divija Morishetty 👨‍💻, with a passion for problem-solving and algorithm design. I’m always eager to learn new skills and enjoy immersing myself in research and exploration."
