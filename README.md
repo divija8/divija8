@@ -10,10 +10,6 @@
 ### "I’m  Divija Morishetty 👨‍💻, with a passion for problem-solving and algorithm design. I’m always eager to learn new skills and enjoy immersing myself in research and exploration."
 -------
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ### :woman_technologist: About Me :
 
 💻 An experienced Software Engineer & Front End Developer.<br>
